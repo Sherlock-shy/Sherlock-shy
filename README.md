@@ -4,6 +4,8 @@
 
 - <b>Internet website application & database design Practice (AlgoExpert)</b>
   - [Praciting HTML, CSS, Javascript by making a website](https://github.com/Shecklock/Basic_online_projects_management_system)
+- <b>Porgramming learning and practise (Java, Escplise, Processing)</b>
+  - [Getting hands on java and making some program](https://github.com/Shecklock/Programming_summary)
 
 <h2> 🤳 Connect with me:</h2>
 
