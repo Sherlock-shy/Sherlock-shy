@@ -11,7 +11,7 @@
   - [Getting hands on java and making some program](https://github.com/Shecklock/Programming_summary)
 
 - <b>Cybersecurity Projects</b>
-  - [Learning phishing](https://github.com/Shecklock/Phishing_with_beef)]
+  - [Learning phishing](https://github.com/Shecklock/Phishing_with_beef)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
