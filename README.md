@@ -3,10 +3,15 @@
 <h2>👨‍💻 Software Development/programming/Cybersecurity Projects:</h2>
 
 - <b>Internet website application & database design Practice (AlgoExpert)</b>
-  - [Praciting HTML, CSS, Javascript by making a website](https://github.com/Shecklock/Basic_online_projects_management_system)
+  - [Learning SQL](https://github.com/Shecklock/SQL_first_try)
+  - [Learning HTML, CSS, Javascript](https://github.com/Shecklock/First_time_getting_hands_on_html-CSS)
+  - [Praciting HTML, CSS, Javascript adn SQL by making a website](https://github.com/Shecklock/Basic_online_projects_management_system)
     
 - <b>Programming learning and practise (Java, Escplise, Processing)</b>
   - [Getting hands on java and making some program](https://github.com/Shecklock/Programming_summary)
+
+- <b>Cybersecurity Projects</b>
+  - [SIEM Honeypot set up](https://github.com/Shecklock/Simple-SIEM-Set-up-and-play)
 
 <h2> 🤳 Connect with me:</h2>
 
