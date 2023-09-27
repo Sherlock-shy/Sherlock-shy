@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development/programming/Cybersecurity Projects:</h2>
 
-- <b>Internet website application & database design Practice (AlgoExpert)</b>
+- <b>Internet website application & database design Practice</b>
   - [Learning SQL](https://github.com/Shecklock/SQL_first_try)
   - [Learning HTML, CSS, Javascript](https://github.com/Shecklock/First_time_getting_hands_on_html-CSS)
   - [Praciting HTML, CSS, Javascript adn SQL by making a website](https://github.com/Shecklock/Basic_online_projects_management_system)
