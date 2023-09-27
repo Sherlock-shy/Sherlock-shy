@@ -1,5 +1,10 @@
 <h1>Hi, I'm Ho! <a href="https://www.linkedin.com/in/siu-ho-yin-56030126a/"> A Cybersecurity Student</a></h1>
 
+<h2>About me:</h2>
+Hello, I am a cybersecurity student, cureently studying in year 2.
+Topic of Cybersecurity really hooked me up and I want to learn more on it.
+I have done quite some projects for my university and my self study, all project are uploaded to Github, if you are interested please have a look!
+
 <h2>👨‍💻 Software Development/programming/Cybersecurity Projects:</h2>
 
 - <b>Internet website application & database design Practice</b>
@@ -19,10 +24,6 @@
 
 [linkedin]: https://www.linkedin.com/in/siu-ho-yin-56030126a/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
