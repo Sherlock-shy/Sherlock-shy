@@ -17,7 +17,7 @@ I have done quite some projects for my university and my self study, all project
 
 - <b>Cybersecurity Projects</b>
   - [Learning phishing](https://github.com/Shecklock/Phishing_with_beef)
-  //- [Hacking lab building](https://github.com/Shecklock/HACKING_LAB)
+ 
     
 <h2> 🤳 Other profile:</h2>
 
