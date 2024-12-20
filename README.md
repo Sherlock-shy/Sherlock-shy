@@ -1,25 +1,18 @@
 <h1>Hi, I'm Ho! <a href="https://www.linkedin.com/in/siu-ho-yin-56030126a/"> A Cybersecurity Student</a></h1>
 
 <h2>About me:</h2>
-Hello, I am a cybersecurity student, cureently studying in year 2 and looking for a placement offer for next year.
+Hello, I am a cybersecurity student, cureently studying in final year.
 Topic of Cybersecurity really hooked me up and I want to learn more on it.
-I have done quite some projects for my university and my self study, all project are uploaded to Github, if you are interested please have a look!
+I have done quite some projects for my university and my self study, currently trying to work on ai as well
 
 <h2>👨‍💻 Software Development/programming/Cybersecurity Projects:</h2>
 
-- <b>Internet website application & database design Practice</b>
-  - [Learning SQL](https://github.com/Shecklock/SQL_first_try)
-  - [Learning HTML, CSS, Javascript](https://github.com/Shecklock/First_time_getting_hands_on_html-CSS)
-  - [Praciting HTML, CSS, Javascript adn SQL by making a website](https://github.com/Shecklock/Basic_online_projects_management_system)
-  - [Team project for a ecommerce website](https://github.com/Shecklock/Team-38)
-    
-- <b>Programming learning and practise (Java, Escplise, Processing)</b>
-  - [Getting hands on java and making some program](https://github.com/Shecklock/Programming_summary)
+- <b></b>
 
-- <b>Cybersecurity Projects</b>
-  - [Learning phishing](https://github.com/Shecklock/Phishing_with_beef)
-  - [Hacking Lab build up](https://github.com/Shecklock/HACKING_LAB)
- 
+- <b></b>
+
+- <b></b>
+
     
 <h2> 🤳 Other profile:</h2>
 
