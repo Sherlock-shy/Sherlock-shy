@@ -1,7 +1,6 @@
 <h1>Hi, I'm Ho! <a href="https://www.linkedin.com/in/siu-ho-yin-56030126a/"> A Cybersecurity Student</a></h1>
 
-<h2>About me:</h2>
-Hello, currently final year cybersecurity student at Aston.
+<h2>Currently final year cybersecurity student at Aston.</h2>
 
 <b></b>
 
